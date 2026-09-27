@@ -17,9 +17,6 @@ Open a task folder and double-click its `index.html` file. To see the selector e
 - `Task5_Responsive_Design` — layouts and text that adapt at tablet and phone widths.
 - `Task6_Mini_Project` — a resume website combining semantic HTML, selectors, the box model, Flexbox, Grid, and a mobile media query. The project is based on the linked HTML Resume tutorial.
 
-## Submission
-
-The ZIP is named `WD_Week2_HarshithaBandari.zip` and contains this README, `Reflection.md`, and all six task folders. Upload it to Google Drive, set sharing to **Anyone with the link**, and submit that link on the internship portal.
 
 ## Folder layout
 
