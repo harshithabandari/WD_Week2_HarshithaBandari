@@ -2,7 +2,7 @@
 
 **Student:** Harshitha Bandari
 
-Each task is in its own folder. Every task has an `index.html` page and an external `style.css` stylesheet.
+Each task is in its own folder. Every task has an `index.html` page and an external `style.css` stylesheet. Task 7's reflection is in `Reflection.md`.
 
 ## Run a task
 
@@ -19,12 +19,14 @@ Open a task folder and double-click its `index.html` file. To see the selector e
 
 ## Submission
 
-The ZIP is named `WD_Week2_HarshithaBandari.zip` and contains this README plus all six task folders. Upload it to Google Drive, set sharing to **Anyone with the link**, and submit that link on the internship portal.
+The ZIP is named `WD_Week2_HarshithaBandari.zip` and contains this README, `Reflection.md`, and all six task folders. Upload it to Google Drive, set sharing to **Anyone with the link**, and submit that link on the internship portal.
 
 ## Folder layout
 
 ```text
 WD_Week2_HarshithaBandari/
+├── README.md
+├── Reflection.md
 ├── Task1_CSS_Selectors/
 │   ├── index.html
 │   └── style.css
