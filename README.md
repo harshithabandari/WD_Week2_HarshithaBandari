@@ -15,7 +15,7 @@ Open a task folder and double-click its `index.html` file. To see the selector e
 - `Task3_Flexbox` — Flexbox direction, alignment, spacing, and a responsive row of cards.
 - `Task4_CSS_Grid` — grid columns, rows, gaps, and items spanning multiple tracks.
 - `Task5_Responsive_Design` — layouts and text that adapt at tablet and phone widths.
-- `Task6_Mini_Project` — an outdoor club page combining selectors, the box model, Flexbox, Grid, and media queries.
+- `Task6_Mini_Project` — a resume website combining semantic HTML, selectors, the box model, Flexbox, Grid, and a mobile media query. The project is based on the linked HTML Resume tutorial.
 
 ## Submission
 
