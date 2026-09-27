@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 30px;
+  background: #eef3f7;
+  color: #263746;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+#page-title {
+  color: #176b9a;
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+}
+
+.example {
+  padding: 20px;
+  background: white;
+  border: 1px solid #cbd8df;
+}
+
+.highlight {
+  color: #a54832;
+  font-weight: bold;
+}
+
+#special-note {
+  color: #176b9a;
+}
+
+.tip {
+  text-align: center;
+}

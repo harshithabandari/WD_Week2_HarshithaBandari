@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 30px 16px;
+  background: #f7f4eb;
+  color: #33352f;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.intro {
+  color: #686b60;
+}
+
+.card {
+  width: 100%;
+  max-width: 380px;
+  min-height: 210px;
+  margin: 35px auto;
+  padding: 28px;
+  border: 2px solid #7f9970;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 8px 18px #26374620;
+}
+
+.card a {
+  color: #496b3c;
+}
+
+.details {
+  color: #686b60;
+}
